@@ -34,9 +34,11 @@ My first project with Code Institute.
       - The Hero image on the home page is important as it represents what the goal of the website and user experience is all about. It catches the user's attention and immediately provides them with some sense of scale as to the challenges and expeditions being offered on the website.
       
 
+# - Wireframe
 
-    
-    
+
+   - Click here to view the sites Wireframes - [7Summits.pdf](https://github.com/kevinfinn29/project-one/files/7964349/7Summits.pdf)
+
 
     
     
