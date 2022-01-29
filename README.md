@@ -28,7 +28,7 @@ My first project with Code Institute.
       - The main colors used will be Midnight Grey, Burnt Orange and White. The grey and white is used to emphasise the remote and grey tendencies of a mountainous region and the orange element will be used to provide contrast to these elements.
       
   - Typography
-      - The Ubunto Mono font is used throughout the website with Sans Serif set as the fallback font in case the font is not imported correctly. Ubunto Mono is a very defined and aesthetically pleasing font which will fit in well with the colour scheme present.
+      - The Ubunto Mono font is used throughout the website with Open Sans set as the fallback font in case the font is not imported correctly. Ubunto Mono is a very defined and aesthetically pleasing font which will fit in well with the colour scheme present.
 
   -Imagery
       - The Hero image on the home page is important as it represents what the goal of the website and user experience is all about. It catches the user's attention and immediately provides them with some sense of scale as to the challenges and expeditions being offered on the website.
