@@ -40,5 +40,23 @@ My first project with Code Institute.
    - Click here to view the sites Wireframes - [7Summits.pdf](https://github.com/kevinfinn29/project-one/files/7964349/7Summits.pdf)
 
 
+# - Introduction
+
+   - You are introduced to to mountainous backdrop phot with an intoductory message.
+
+# - 7 Summits
+
+   - You are then presented with a view of the 7 different summits available to climb. The following page provides dates and availability.
+
+# - Issues
+
+   - I was unable to add a page where i wanted to include a form so instead resorted to including a small area where an email address could be input and details would then be sent to the user.
+   - I was unable to complete the project as I wanted due to time contraints. There is very little in regards to responsive design as a result.
+
+
+
+
+
+
     
     
