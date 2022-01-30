@@ -15,7 +15,7 @@
 }
 #menu {
     float: right;
-    font-size: 100%;
+    font-size: 120%;
     color: #FFA500;
 }
 #menu, logo {
@@ -46,13 +46,13 @@ p{
     margin-left: 80px;
     margin-right: 80px;
     bottom: 30px;
-    font-size: larger;
+    font-size: large;
 }
 .hero-text {
     background-color: rgba(78,90,102,0.9);
     margin-left: 110px;
     margin-right: 110px;
-    top: 500px;
+    top: 450px;
     right: 100px;
     left: 100px;
     position: absolute;
@@ -60,7 +60,7 @@ p{
     
 }
 .hero-image {
-    height: 1400px;
+    height: 105%;
     width: 100%;
     background: url(../images/hero_img.jpeg) no-repeat center center;
     animation-name: hero-zoom;
@@ -80,4 +80,35 @@ p{
     width: 100%;
     overflow: hidden;
     position: relative;
+}
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+#menu a:hover{
+    border-bottom: 1px solid #FFA500;
+}
+
+.active{
+    border-bottom: 1px solid #FFA500;
+}
+footer{
+    height: 50px;
+}
+
+.social-networks{
+    text-align: center;
+    width: 100%;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 400%;
+    margin: 10px;
+    padding: 5%;
+    color: #FFA500;
+    
 }
