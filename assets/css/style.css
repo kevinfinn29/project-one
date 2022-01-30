@@ -40,6 +40,11 @@ h1,h2{
     letter-spacing: 6px;
     color: #666a6d;
 }
+h3  {
+    font-family: ubuntu, sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
 p{
     color: #FFA500;
     text-align: center;
@@ -111,4 +116,31 @@ footer{
     padding: 5%;
     color: #FFA500;
     
+}
+#expeditions{
+    margin-left: 7%;
+}
+#expeditions div{
+    color: #fafafa;
+    background-color: rgba(78,90,102,0.7);
+    height: 200px;
+    float: left;
+    padding: 30px 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+    margin-top: 50%;
+    width: 13%;
+
+  
+}
+#expeditions h2 {
+    color: #fafafa;
+    font-size: smaller;
+    
+
+}
+#expeditions h3 {
+    font-size: smaller;
+    padding: 15px;
 }
