@@ -26,6 +26,29 @@
     list-style-type: none;
     margin-right: 30px;
 }
+@media screen and (max-width:1200px){
+    #expeditions {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    .hero-image{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    #logo {
+        padding: 30px 0;
+        margin: 0;
+    }
+   
+    #expeditions > div{
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+}
 
 body
 {
@@ -149,4 +172,12 @@ footer{
     margin:20px 60px;
     width: auto;
     text-transform: uppercase;
+}
+#form {
+    color: #FFA500;
+    background-color: rgba(78,90,102,0.9);
+    padding:5px;
+}
+#form-header {
+    background-color: rgba(78,90,102,0.9);
 }
