@@ -62,6 +62,7 @@ p{
     left: 100px;
     position: absolute;
     border-radius: 7px;
+    padding: 15px;
     
 }
 .hero-image {
@@ -129,7 +130,7 @@ footer{
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
-    margin-top: 50%;
+    margin-top: 60%;
     width: 13%;
 
   
@@ -143,4 +144,9 @@ footer{
 #expeditions h3 {
     font-size: smaller;
     padding: 15px;
+}
+#footer {
+    margin:20px 60px;
+    width: auto;
+    text-transform: uppercase;
 }
